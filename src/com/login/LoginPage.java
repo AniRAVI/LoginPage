@@ -8,7 +8,7 @@ public class LoginPage extends HttpServlet{
 	
 	public void Service(HttpServletRequest req, HttpServletResponse res){
 		
-		
+		System.out.println("Test Login ");
 		
 		
 	}
